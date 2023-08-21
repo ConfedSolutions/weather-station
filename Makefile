@@ -1,10 +1,10 @@
 # Makefile for Hello World program
 
 # Compiler
-CC = gcc
+#CC = gcc
 
 # Compiler flags
-CFLAGS = -Wall
+#CFLAGS = -Wall
 
 # Target executable name
 TARGET = confed-weather-station
